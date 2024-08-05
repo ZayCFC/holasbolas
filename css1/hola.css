@@ -1,0 +1,27 @@
+p {
+    color: #cd5d7d;
+    font-family: 'Trebuchet MS';
+    font-weight: bold;
+    float: center;
+}
+
+h1 {
+    color: blue;
+    font-family: 'Trebuchet MS';
+}
+
+#cuerpo {
+    background-color: #95BDFF;
+}
+p2 {
+    color: #4b228d;
+    font-family: 'Trebuchet MS';
+    font-weight: bold;
+    float: center;
+}
+p3 {
+    color: #083047;
+    font-family: 'Trebuchet MS';
+    font-weight: bold;
+    float: center;
+}
